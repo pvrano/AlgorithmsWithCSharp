@@ -1,0 +1,14 @@
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\bin\Debug\net9.0\AlgorithmsWithCSharp.exe
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\bin\Debug\net9.0\AlgorithmsWithCSharp.deps.json
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\bin\Debug\net9.0\AlgorithmsWithCSharp.runtimeconfig.json
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\bin\Debug\net9.0\AlgorithmsWithCSharp.dll
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\bin\Debug\net9.0\AlgorithmsWithCSharp.pdb
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\AlgorithmsWithCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\AlgorithmsWithCSharp.AssemblyInfoInputs.cache
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\AlgorithmsWithCSharp.AssemblyInfo.cs
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\AlgorithmsWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\AlgorithmsWithCSharp.dll
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\refint\AlgorithmsWithCSharp.dll
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\AlgorithmsWithCSharp.pdb
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\AlgorithmsWithCSharp.genruntimeconfig.cache
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\ref\AlgorithmsWithCSharp.dll
