@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgorithmsWithCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dda6d48f8a632ce2914122edcafed57b636082d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86af15d1be95c8ad77fb5bad4269234599a2f142")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgorithmsWithCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgorithmsWithCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

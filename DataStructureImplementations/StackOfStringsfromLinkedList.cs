@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AlgorithmsWithCSharp
+namespace AlgorithmsWithCSharp.DataStructureImplementations
 {
     public class StackOfStringsfromLinkedList
     {
-        private LinkedListNode<string> first = null;
-        private class LinkedListNode<T>
+        private Node first = null;
+        private class Node
         {
             public string item;
-            public LinkedListNode<T> next;
+            public Node next;
         }
 
         public bool isEmpty()
@@ -20,11 +20,11 @@ namespace AlgorithmsWithCSharp
             return first == null;
 
         }
-        public void push(string item)
+        public void push(string itemToBeInserted)
         {
-            LinkedListNode<string> newNode = first;
-            first = new LinkedListNode<string>();
-            first.item = item;
+            Node newNode = first;
+            first = new Node();
+            first.item = itemToBeInserted;
             first.next = newNode;
 
         }

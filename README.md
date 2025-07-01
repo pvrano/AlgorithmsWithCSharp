@@ -12,15 +12,19 @@ The goal of this project is to deepen my understanding of algorithmic concepts a
 AlgorithmsWithCSharp/
 ├── AlgorithmsWithCSharp.csproj
 ├── AlgorithmsWithCSharp.sln
-├── BinarySearch.cs
+├── DataStructureImplementation/
+│   ├── StackOfStringsfromLinkedList.cs
+│   └── ...
+├── SearchAlgorithms/
+│   ├── BinarySearch.cs
+│   └── ...
 ├── MainRunningProgram.cs
-├── StackOfStringsfromLinkedList.cs
 ├── README.md
 ├── bin/
 └── obj/
 ```
-- `BinarySearch.cs`: Contains the implementation of the binary search algorithm.
-- `StackOfStringsfromLinkedList.cs`: Implements a stack data structure for strings using a linked list.
+- `DataStructureImplementation/`: Contains implementation code for different types of data structures using custom classes (e.g., stacks, queues, linked lists, etc.).
+- `SearchAlgorithms/`: Contains code implementations for various search algorithms (e.g., binary search, linear search, etc.).
 - `MainRunningProgram.cs`: The main entry point to run and test algorithms.
 - `AlgorithmsWithCSharp.csproj` and `AlgorithmsWithCSharp.sln`: Project and solution files for .NET.
 - `bin/` and `obj/`: Build output and intermediate files.

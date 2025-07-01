@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pvran\\source\\repos\\AlgorithmsWithCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32958912-5E47-CFEB-7863-DB6EC9CDA87F}|AlgorithmsWithCSharp.csproj|c:\\users\\pvran\\source\\repos\\algorithmswithcsharp\\stackofstringsfromlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32958912-5E47-CFEB-7863-DB6EC9CDA87F}|AlgorithmsWithCSharp.csproj|solutionrelative:stackofstringsfromlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32958912-5E47-CFEB-7863-DB6EC9CDA87F}|AlgorithmsWithCSharp.csproj|c:\\users\\pvran\\source\\repos\\algorithmswithcsharp\\datastructureimplementations\\stackofstringsfromlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32958912-5E47-CFEB-7863-DB6EC9CDA87F}|AlgorithmsWithCSharp.csproj|solutionrelative:datastructureimplementations\\stackofstringsfromlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32958912-5E47-CFEB-7863-DB6EC9CDA87F}|AlgorithmsWithCSharp.csproj|c:\\users\\pvran\\source\\repos\\algorithmswithcsharp\\datastructureimplementations\\linkedqueueofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32958912-5E47-CFEB-7863-DB6EC9CDA87F}|AlgorithmsWithCSharp.csproj|solutionrelative:datastructureimplementations\\linkedqueueofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32958912-5E47-CFEB-7863-DB6EC9CDA87F}|AlgorithmsWithCSharp.csproj|c:\\users\\pvran\\source\\repos\\algorithmswithcsharp\\datastructureimplementations\\fixedsizestackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32958912-5E47-CFEB-7863-DB6EC9CDA87F}|AlgorithmsWithCSharp.csproj|solutionrelative:datastructureimplementations\\fixedsizestackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedQueueOfStrings.cs",
+              "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\AlgorithmsWithCSharp\\DataStructureImplementations\\LinkedQueueOfStrings.cs",
+              "RelativeDocumentMoniker": "DataStructureImplementations\\LinkedQueueOfStrings.cs",
+              "ToolTip": "C:\\Users\\pvran\\source\\repos\\AlgorithmsWithCSharp\\DataStructureImplementations\\LinkedQueueOfStrings.cs",
+              "RelativeToolTip": "DataStructureImplementations\\LinkedQueueOfStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:11:11.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FixedSizeStackOfStrings.cs",
+              "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\AlgorithmsWithCSharp\\DataStructureImplementations\\FixedSizeStackOfStrings.cs",
+              "RelativeDocumentMoniker": "DataStructureImplementations\\FixedSizeStackOfStrings.cs",
+              "ToolTip": "C:\\Users\\pvran\\source\\repos\\AlgorithmsWithCSharp\\DataStructureImplementations\\FixedSizeStackOfStrings.cs",
+              "RelativeToolTip": "DataStructureImplementations\\FixedSizeStackOfStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:03:57.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StackOfStringsfromLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\AlgorithmsWithCSharp\\StackOfStringsfromLinkedList.cs",
-              "RelativeDocumentMoniker": "StackOfStringsfromLinkedList.cs",
-              "ToolTip": "C:\\Users\\pvran\\source\\repos\\AlgorithmsWithCSharp\\StackOfStringsfromLinkedList.cs",
-              "RelativeToolTip": "StackOfStringsfromLinkedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\AlgorithmsWithCSharp\\DataStructureImplementations\\StackOfStringsfromLinkedList.cs",
+              "RelativeDocumentMoniker": "DataStructureImplementations\\StackOfStringsfromLinkedList.cs",
+              "ToolTip": "C:\\Users\\pvran\\source\\repos\\AlgorithmsWithCSharp\\DataStructureImplementations\\StackOfStringsfromLinkedList.cs",
+              "RelativeToolTip": "DataStructureImplementations\\StackOfStringsfromLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T21:18:37.025Z",
               "EditorCaption": ""

@@ -12,3 +12,4 @@ C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\refint\Algorit
 C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\AlgorithmsWithCSharp.pdb
 C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\AlgorithmsWithCSharp.genruntimeconfig.cache
 C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\ref\AlgorithmsWithCSharp.dll
+C:\Users\pvran\source\repos\AlgorithmsWithCSharp\obj\Debug\net9.0\AlgorithmsWithCSharp.sourcelink.json
